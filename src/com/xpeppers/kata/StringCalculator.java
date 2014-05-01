@@ -1,4 +1,4 @@
-package com.xpeppers.javakata;
+package com.xpeppers.kata;
 
 import java.util.ArrayList;
 import java.util.List;

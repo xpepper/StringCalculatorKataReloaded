@@ -1,8 +1,10 @@
-package com.xpeppers.javakata;
+package com.xpeppers.kata;
 
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
+
+import com.xpeppers.kata.StringCalculator;
 
 import static org.junit.Assert.assertEquals;
 
