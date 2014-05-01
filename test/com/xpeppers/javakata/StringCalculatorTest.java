@@ -1,7 +1,5 @@
 package com.xpeppers.javakata;
 
-import java.util.StringTokenizer;
-
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
